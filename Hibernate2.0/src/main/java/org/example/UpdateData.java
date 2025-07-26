@@ -21,7 +21,7 @@ public class UpdateData {
         a1.setAid(103);
         a1.setAname("Vardhan");
         a1.setTech("C++");
-        a1.setLaptop(l1);
+        //a1.setLaptops(l1);
 
 
 
