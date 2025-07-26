@@ -61,14 +61,14 @@ public class Laptop {
     }
 
 
-//    @Override
-//    public String toString() {
-//        return "Laptop{" +
-//                "lid=" + lid +
-//                ", brand='" + brand + '\'' +
-//                ", model='" + model + '\'' +
-//                ", ram=" + ram +
-//                ", alien=" + aliens +
-//                '}';
-//    }
+    @Override
+    public String toString() {
+        return "Laptop{" +
+                "lid=" + lid +
+                ", brand='" + brand + '\'' +
+                ", model='" + model + '\'' +
+                ", ram=" + ram +
+                ", aliens=" + aliens +
+                '}';
+    }
 }
