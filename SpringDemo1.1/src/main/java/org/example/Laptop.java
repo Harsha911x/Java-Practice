@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 @Component
 
 
-@Primary
+//@Primary
 //or use Qualifier in calling class
 public class Laptop implements Computer{
     public Laptop() {
